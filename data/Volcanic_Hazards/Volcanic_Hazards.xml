@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+<idinfo>
+<citation>
+<citeinfo>
+<pubdate>20130605</pubdate>
+<title>Volcanic_Hazards</title>
+<onlink>http://services2.arcgis.com/1UvBaQ5y1ubjUPmd/arcgis/rest/services/Volcanic_Hazards/FeatureServer</onlink>
+</citeinfo>
+</citation>
+<descript>
+<abstract>Polygons showing inundation zones for Case I, II, and III lahars on Mount Rainier, delineated by scientists at the Cascase Volcano Observatory.  Please read metadata for additional information.  Any data download constitutes acceptance of the Terms of Use.  </abstract>
+<purpose>Polygons showing inundation zones for Case I, II, and III lahars on Mount Rainier, delineated by scientists at the Cascase Volcano Observatory. Please read metadata for additional information.</purpose>
+</descript>
+<keywords>
+<theme>
+<themekt>None</themekt>
+<themekey>Pierce County</themekey>
+<themekey>Environmental Review</themekey>
+<themekey>planning</themekey>
+<themekey>volcanic</themekey>
+<themekey>hazard</themekey>
+<themekey>lahar</themekey>
+<themekey>pyroclastic</themekey>
+<themekey>volcano</themekey>
+<themekey>Rainier</themekey>
+<themekey>Washington</themekey>
+</theme>
+</keywords>
+<accconst>None</accconst>
+<useconst>Data download constitutes acceptance of the Terms of Use. All users should read the metadata.</useconst>
+</idinfo>
+<metainfo>
+<metd>20171017</metd>
+<metc>
+<cntinfo>
+<!--no contact person or organization name available-->
+</cntinfo>
+</metc>
+<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<mettc>local time</mettc>
+</metainfo>
+</metadata>

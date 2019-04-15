@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>S.P. Schilling</origin>
+				<origin>S. Doelger</origin>
+				<origin>R.P. Hoblitt</origin>
+				<origin>J.S. Walder</origin>
+				<origin>C.L. Driedger</origin>
+				<origin>K.M. Scott</origin>
+				<origin>P.T. Pringle</origin>
+				<origin>J.W. Vallance</origin>
+				<pubdate>1998</pubdate>
+				<title>Digital Data for Volcano Hazards from Mount Rainier, Washington: Revised 1998: case3</title>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<serinfo>
+					<sername>U.S. Geological Survey Open-file Report</sername>
+				</serinfo>
+				<pubinfo>
+					<pubplace>Vancouver, WA</pubplace>
+					<publish>U.S. Geological Survey</publish>
+				</pubinfo>
+				<onlink Sync="TRUE">\\IGSWWAWGLT112\C$\0000_photos\metadata\rainier_meta\working\case3</onlink>
+				<ftname Sync="TRUE">case3</ftname></citeinfo>
+		</citation>
+		<descript>
+			<abstract>
+Mount Rainier is a dormant volcano that is the highest peak in the Cascade Range and carries a larger load of glacier ice than any other mountain in the contiguous U.S.  The mountain's large ice mass and great topographic relief pose geologic hazards during both future eruptions and time periods without eruptive activity.   GIS data layers case 1, case 2, and case 3 were delineated by scientists at the Cascade Volcano Observatory and depict various lahar innundation zones around the mountain.   The lahar hazards were defined by field investigations and construction of cross sections.  For examples and descriptions of field investigations and cross section construction, see Scott and Vallance (1995) and Scott and others, (1995).   Two additional GIS layers were created that show post-lahar sedimentation and pyroclastic flow zones.  These coverages are titled postlahar and pyroclastic.
+
+Scott, K.M. and Vallance, J.W., 1995, Debris flow, debris avalanche, and flood hazards at and downstream from Mount Rainier, Washington:  U.S. Geological Survey, Hydrologic Investigations Atlas
+Scott, K.M., Vallance, J.W., and Pringle, P.T., 1995, Sedimentology, behavior, and hazards of debris flows at Mount Rainier, Washington, U.S. Geological Survey Professional Paper 1547, 56p.
+</abstract>
+			<purpose>
+These volcanic hazard zones are intended for use by public and private
+agencies to view, overlay with other Geographic Information System (GIS) data
+sets, and make maps of volcanic hazards from potential future eruptions of
+Mount Rainier, Washington.  It is critical to understand the nature of the boundaries
+of the volcanic hazard zones.  Although arcs serve as boundaries of hazard
+zones, the degree of hazard does not change abruptly at these boundaries.
+Rather, a volcanic hazard decreases gradually with increased distance from
+the volcano and above the valley floor.  These volcanic hazards also span a
+range of size and recurrence.  The hazard zones delineated in this data set
+portray volcanic events believed most likely from future activity at Mount
+Rainier, Washington.  Areas outside the hazard zones, especially those having low
+relief, should not be regarded as hazard-free.  Too many uncertainties exist
+in source, size, and mobility of future events to locate boundaries of
+zero-hazard zones with confidence.
+</purpose>
+			<langdata Sync="TRUE">en</langdata></descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>1998</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>current</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-121.984003</westbc>
+				<eastbc Sync="TRUE">-121.546479</eastbc>
+				<northbc Sync="TRUE">47.005903</northbc>
+				<southbc Sync="TRUE">46.729475</southbc>
+			</bounding>
+			<lboundng><leftbc Sync="TRUE">577626.250000</leftbc><rightbc Sync="TRUE">610504.812500</rightbc><bottombc Sync="TRUE">5175899.500000</bottombc><topbc Sync="TRUE">5206107.500000</topbc></lboundng></spdom>
+		<keywords>
+			<theme>
+				<themekt>none</themekt>
+				<themekey>geologic hazards</themekey>
+				<themekey>lahar</themekey>
+				<themekey>pyroclastic flow</themekey>
+				<themekey>eruptive activity</themekey>
+			</theme>
+			<place>
+				<placekt>none</placekt>
+				<placekey>Mount Rainier</placekey>
+				<placekey>Cascade Range</placekey>
+				<placekey>Washington</placekey>
+			</place>
+		</keywords>
+		<accconst>n/a</accconst>
+		<useconst>
+Although digital data is easy to view at nearly any scale or projection, each
+vector data set has a compilation scale that determines the accuracy and
+reliable use of the data set.  The vectors in this data set were compiled and
+checked for accuracy at a scale of 1:100,000 and thereby should only be used
+at 1:100,000 or smaller scales.  The data set is inappropriate for use at
+scales larger than 1:100,000.  Doing so will produce inaccurate and
+unreliable results.
+</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>USGS Cascade Volcano Observatory</cntorg>
+					<cntper>Sarah Doelger and Steve Schilling</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>1300 SE Cardinal Ct. Suite 100</address>
+					<city>Vancouver</city>
+					<state>WA</state>
+					<postal>98683</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>360-993-8900</cntvoice>
+				<cntfax>360-993-8980</cntfax>
+				<cntemail>sschilli@usgs.gov</cntemail>
+				<hours>9 am - 4 pm</hours>
+			</cntinfo>
+		</ptcontac>
+		<datacred>U.S. Geological Survey Volcano Hazards Program</datacred>
+		<secinfo>
+			<secsys>none</secsys>
+			<secclass>Unclassified</secclass>
+			<sechandl>none</sechandl>
+		</secinfo>
+		<native Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.1.0.722</native>
+		<crossref>
+			<citeinfo>
+				<origin>R.P. Hoblitt</origin>
+				<origin>J.S. Walder</origin>
+				<origin>C.L. Driedger</origin>
+				<origin>K.M. Scott</origin>
+				<origin>P.T. Pringle</origin>
+				<origin>J.W. Vallance</origin>
+				<pubdate>1998</pubdate>
+				<title>Volcano Hazards from Mount Rainier, Washington, Revised 1998</title>
+				<serinfo>
+					<sername>U.S. Geological Survey Open-file Report</sername>
+					<issue>98-428</issue>
+				</serinfo>
+				<pubinfo>
+					<pubplace>Vancouver, WA</pubplace>
+					<publish>U.S. Geological Survey</publish>
+				</pubinfo>
+			</citeinfo>
+		</crossref>
+		<natvform Sync="TRUE">ArcInfo Coverage</natvform></idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>See Entity_Attribute_Information</attraccr>
+			<qattracc>
+				<attraccv>See Explaination</attraccv>
+				<attracce>
+The attribute accuracy is described, where present, with each attribute
+defined in the Entity and Attribute Section.
+</attracce>
+			</qattracc>
+		</attracc>
+		<logic>Arc topology present.</logic>
+		<complete>These coverages include areas that could be affected by lahars that originate on Mt. Rainier as well as the pyroclastic-flow hazard zone on the flanks of the volcano and the post-lahar sedimentation hazard zones.</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>
+Original linework were compiled on mylar greenlines of U.S. Geological
+Survey topographic quadrangles created according to National Map
+Accuracy Standards.  Digitized linework were plotted, registered to
+original linework, and inspected visually for discrepency of greater
+than a linewidth (approximately 0.007 inches).  For computer modelling,
+Digital Elevation Models having cell sizes of about 62 ground meters or
+about 2 millimeters on the map at 1:100,000 scale were derived from Digital
+Line Graph contour layers that were created according to National Map
+Accuracy Standards.  All linework was plotted with DLG contour layers
+to check for positional accuracy as are reasonable according to  geologic
+and hydrologic principles.
+</horizpar>
+			</horizpa>
+			<vertacc>
+				<vertaccr>
+1:100,000 scale Digital Line Graph (DLG) contours have contour intervals of
+either 50 or 40 meters as well as Digital Elevation Models have vertical
+accuracies according to the National Map Accuracy Standards.  All linework
+was plotted with DLG contour layers to check for positional accuracy
+as are reasonable according to geologic and hydrologic principles.
+</vertaccr>
+			</vertacc>
+		</posacc>
+		<lineage>
+			<procstep>
+				<procdesc>
+Linework was captured by hand digitizing.
+Digitizing procedures: Arcs were digitized in tablet inches from lines inked on
+1:24,000 or 1:100,000 scale topographic mylar greenlines.  Each quadrangle was
+registered to the digitizer and re-registered to ensure that tics could be
+relocated with an RMS equal to or less than 0.004.  Lines were digitized using
+a NODESNAP CLOSEST .05 and a weed tolerance of 0.  A second coverage was
+CREATEd from the first.  In INFO, the tics were changed from inch coordinates
+to decimal degree coordinates and saved.  The decimal degree coordinate
+coverage was converted to a UTM projection using:
+INPUT
+PROJECTION GEOGRAPHIC
+UNITS DD
+PARAMETERS
+OUTPUT
+PROJECTION UTM
+UNITS METERS
+ZONE 10
+PARAMETERS
+END
+Each coverage in inches was TRANSFORMed to the empty UTM coverage ensuring
+the transformation RMS was equal or less than 0.004 inches.  The individual
+coverages were edgematched and merged into a single coverage.  Coverages
+were checked for digitizing accuracy both before and after merging by
+plotting linework at 1:24,000 or 1:100,000 scale as appropriate and
+overlain on original linework.
+</procdesc>
+				<procdate>Unknown</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused>C:\DOCUME~1\sdoelger\LOCALS~1\Temp\xml1A94.tmp</srcused>
+			</procstep>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused>E:\doelger\rainier_meta\rainier.xml</srcused>
+			</procstep>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused>E:\doelger\rainier_meta\metadata.xml</srcused>
+			</procstep>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused>C:\DOCUME~1\sschilli\LOCALS~1\Temp\xmlC4.tmp</srcused>
+			</procstep>
+			<procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">C:\DOCUME~1\sschilli\LOCALS~1\Temp\xmlDC.tmp</srcused><date Sync="TRUE">20070701</date><time Sync="TRUE">10512600</time></procstep></lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="arc">
+				<sdtstype Sync="TRUE">Complete chain</sdtstype>
+				<ptvctcnt Sync="TRUE">10</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm Name="tic">
+				<sdtstype Sync="TRUE">Point</sdtstype>
+				<ptvctcnt Sync="TRUE">4</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="arc"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Arc</efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">10</efeacnt><spindex Sync="TRUE">FALSE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm><esriterm Name="tic"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Tic</efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">4</efeacnt><spindex Sync="TRUE">FALSE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm></ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance Sync="TRUE">coordinate pair</plance>
+					<coordrep>
+						<absres Sync="TRUE">0.000064</absres>
+						<ordres Sync="TRUE">0.000064</ordres>
+					</coordrep>
+					<plandu Sync="TRUE">meters</plandu>
+				</planci>
+				<gridsys><gridsysn Sync="TRUE">Universal Transverse Mercator</gridsysn><utm><utmzone Sync="TRUE">10</utmzone><transmer><sfctrmer Sync="TRUE">0.999600</sfctrmer><longcm Sync="TRUE">-123.000000</longcm><latprjo Sync="TRUE">0.000000</latprjo><feast Sync="TRUE">500000.000000</feast><fnorth Sync="TRUE">0.000000</fnorth></transmer></utm></gridsys></planar>
+			<geodetic>
+				<horizdn Sync="TRUE">North American Datum of 1927</horizdn>
+				<ellips Sync="TRUE">Clarke 1866</ellips>
+				<semiaxis Sync="TRUE">6378206.400000</semiaxis>
+				<denflat Sync="TRUE">294.978698</denflat>
+			</geodetic>
+			<cordsysn><geogcsn Sync="TRUE">GCS_North_American_1927</geogcsn><projcsn Sync="TRUE">NAD_1927_UTM_Zone_10N</projcsn></cordsysn></horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="case3.aat">
+			<enttyp>
+				<enttypl Sync="TRUE">case3.aat</enttypl>
+				<enttypd>Arc Attribute Table</enttypd>
+				<enttypds>Field mapping, experience, and interpretation</enttypds>
+				<enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">10</enttypc></enttyp>
+			<attr>
+				<attrlabl Sync="TRUE">FID</attrlabl>
+				<attrdef Sync="TRUE">Internal feature number.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl Sync="TRUE">Shape</attrlabl>
+				<attrdef Sync="TRUE">Feature geometry.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias><attrtype Sync="TRUE">Geometry</attrtype><attwidth Sync="TRUE">0</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl Sync="TRUE">FNODE#</attrlabl>
+				<attrdef Sync="TRUE">Internal node number for the beginning of an arc (from-node).</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">5</atoutwid><attrtype Sync="TRUE">Binary</attrtype></attr>
+			<attr>
+				<attrlabl Sync="TRUE">TNODE#</attrlabl>
+				<attrdef Sync="TRUE">Internal node number for the end of an arc (to-node).</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">5</atoutwid><attrtype Sync="TRUE">Binary</attrtype></attr>
+			<attr>
+				<attrlabl Sync="TRUE">LPOLY#</attrlabl>
+				<attrdef Sync="TRUE">Internal node number for the left polygon.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">5</atoutwid><attrtype Sync="TRUE">Binary</attrtype></attr>
+			<attr>
+				<attrlabl Sync="TRUE">RPOLY#</attrlabl>
+				<attrdef Sync="TRUE">Internal node number for the right polygon.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">5</atoutwid><attrtype Sync="TRUE">Binary</attrtype></attr>
+			<attr>
+				<attrlabl Sync="TRUE">LENGTH</attrlabl>
+				<attrdef Sync="TRUE">Length of feature in internal units.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Positive real numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">12</atoutwid><attrtype Sync="TRUE">Float</attrtype><atnumdec Sync="TRUE">3</atnumdec></attr>
+			<attr>
+				<attrlabl Sync="TRUE">CASE3#</attrlabl>
+				<attrdef Sync="TRUE">Internal feature number.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">5</atoutwid><attrtype Sync="TRUE">Binary</attrtype></attr>
+			<attr>
+				<attrlabl Sync="TRUE">CASE3-ID</attrlabl>
+				<attrdef Sync="TRUE">User-defined feature number.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">5</atoutwid><attrtype Sync="TRUE">Binary</attrtype></attr>
+			<attr>
+				<attrlabl Sync="TRUE">AREA</attrlabl>
+				<attrdef Sync="TRUE">Area of feature in internal units squared.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Positive real numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">13</atoutwid><attrtype Sync="TRUE">Float</attrtype><atnumdec Sync="TRUE">11</atnumdec></attr>
+			<attr>
+				<attrlabl Sync="TRUE">PERIMETER</attrlabl>
+				<attrdef Sync="TRUE">Perimeter of feature in internal units.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Positive real numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">13</atoutwid><attrtype Sync="TRUE">Float</attrtype><atnumdec Sync="TRUE">11</atnumdec></attr>
+			<attr>
+				<attrlabl Sync="TRUE">RNR3LAH_2_</attrlabl>
+				<attrdef>Arcs that delineate CASE3 lahar zones</attrdef>
+				<attrdefs>Field mapping, experience, and interpretation</attrdefs>
+				<attwidth Sync="TRUE">8</attwidth><atoutwid Sync="TRUE">9</atoutwid><attrtype Sync="TRUE">Float</attrtype><atnumdec Sync="TRUE">0</atnumdec></attr>
+			<attr>
+				<attrlabl Sync="TRUE">RNR3LAH_21</attrlabl>
+				<attrdef>Arcs that delineate CASE3 lahar zones</attrdef>
+				<attrdefs>Field mapping, experience, and interpretation</attrdefs>
+				<attwidth Sync="TRUE">8</attwidth><atoutwid Sync="TRUE">9</atoutwid><attrtype Sync="TRUE">Float</attrtype><atnumdec Sync="TRUE">0</atnumdec></attr>
+			<attr>
+				<attrlabl Sync="TRUE">SYMBOL</attrlabl>
+				<attrdef>Arcs that delineate CASE3 lahar zones</attrdef>
+				<attrdefs>Field mapping, experience, and interpretation</attrdefs>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">3</atoutwid><attrtype Sync="TRUE">Binary</attrtype></attr>
+		</detailed>
+		<overview>
+			<eaover>
+CASE3.AAT - Arc Attribute Table
+The attributes FID, Shape, FNODE#, TNODE#, LPOLY#, RPOLY#, LENGTH, CASE3#, CASE3-ID, AREA, and PERIMETER are created and maintained automatically for internal use by Arc/INFO software.
+
+RNR3LAH_2_  and RNR3LAH_21 are defined as having widths of 8 and outputs of 9.  The values for both of these attributes show case3 lahars for specific drainages on the flanks of Mt. Rainier.
+
+SYMBOL is defined as having a width of 4 and an output of 3.  This attribute has the single value of 1 and represents the entire coverage of case3 lahars.
+</eaover>
+		</overview>
+	</eainfo>
+	<distinfo>
+		<resdesc>Downloadable Data</resdesc>
+		<distliab>
+This dataset has not been approved for release or publication by the Director of the USGS. The USGS reserves the right to revise the data pursuant to further analysis and review. Furthermore, it is released on condition that neither the USGS nor the United States Government may be held liable for any damages resulting from its authorized or unauthorized use. Any use of trade, product, or firm names is for descriptive purposes only and does not imply endorsement by the U.S. Government.
+Distribution of the database files assumes that all components of the database will be used together. Use of any one ArcInfo coverage outside the context of the other coverages is considered inappropriate or misuse. Due to the uncertainty involved in the prediction of lahar-inundation limits, individual coverages do not delimit a well-defined range of hazard. The collective group of the ArcInfo coverages better convey the gradational nature of hazard zones.
+</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize Sync="TRUE">0.034</transize>
+					<dssize Sync="TRUE">0.034</dssize></digtinfo>
+			</digform>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20070707</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>USGS Cascade Volcano Observatory</cntorg>
+					<cntper>Steve Schilling and Sarah Doelger</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>1300 SE Cardinal Ct. Suite 100</address>
+					<city>Vancouver</city>
+					<state>WA</state>
+					<postal>98683</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>360-993-8900</cntvoice>
+				<cntfax>360-993-8980</cntfax>
+				<cntemail>sschilli@usgs.gov</cntemail>
+				<hours>9 am to 4  pm Pacific Time</hours>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metsi>
+			<metscs>none</metscs>
+			<metsc>Unclassified</metsc>
+			<metshd>none</metshd>
+		</metsi>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta><metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo>
+	<Esri><MetaID>{155B5CE4-BEB8-4417-A91B-3E4C245B4203}</MetaID><CreaDate>20070701</CreaDate><CreaTime>10512600</CreaTime><SyncOnce>FALSE</SyncOnce><SyncDate>20070707</SyncDate><SyncTime>14152100</SyncTime><ModDate>20070707</ModDate><ModTime>14153500</ModTime></Esri><dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.1.0.722</envirDesc><dataLang><languageCode Sync="TRUE" value="en"></languageCode></dataLang><idCitation><resTitle Sync="TRUE">case3</resTitle><presForm><PresFormCd Sync="TRUE" value="005"></PresFormCd></presForm></idCitation><spatRpType><SpatRepTypCd Sync="TRUE" value="001"></SpatRepTypCd></spatRpType><dataExt><geoEle><GeoBndBox esriExtentType="native"><westBL Sync="TRUE">577626.25</westBL><eastBL Sync="TRUE">610504.8125</eastBL><northBL Sync="TRUE">5206107.5</northBL><southBL Sync="TRUE">5175899.5</southBL><exTypeCode Sync="TRUE">1</exTypeCode></GeoBndBox></geoEle></dataExt><geoBox esriExtentType="decdegrees"><westBL Sync="TRUE">-121.984003</westBL><eastBL Sync="TRUE">-121.546479</eastBL><northBL Sync="TRUE">47.005903</northBL><southBL Sync="TRUE">46.729475</southBL><exTypeCode Sync="TRUE">1</exTypeCode></geoBox></dataIdInfo><mdLang><languageCode Sync="TRUE" value="en"></languageCode></mdLang><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="004"></CharSetCd></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distInfo><distributor><distorTran><onLineSrc><orDesc Sync="TRUE">002</orDesc><linkage Sync="TRUE">file://\\IGSWWAWGLT112\C$\0000_photos\metadata\rainier_meta\working\case3</linkage><protocol Sync="TRUE">Local Area Network</protocol></onLineSrc><transSize Sync="TRUE">0.034</transSize></distorTran><distorFormat><formatName Sync="TRUE">ArcInfo Coverage</formatName></distorFormat></distributor></distInfo><refSysInfo><RefSystem><refSysID><identCode Sync="TRUE">NAD_1927_UTM_Zone_10N</identCode></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><topLvl><TopoLevCd Sync="TRUE" value="001"></TopoLevCd></topLvl><geometObjs Name="arc"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="003"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">10</geoObjCnt></geometObjs><geometObjs Name="tic"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="004"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">4</geoObjCnt></geometObjs></VectSpatRep></spatRepInfo><mdDateSt Sync="TRUE">20070707</mdDateSt></metadata>
