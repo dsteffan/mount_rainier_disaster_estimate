@@ -50,7 +50,7 @@ ___
 ## Directory Structure
 ```
 project-3
-|__ notebooks
+|__ code
 |   |__ King_County_Data_Prep.ipynb  
 |   |__ Thurston_County_Data_Prep.ipynb  
 |   |__ Get_Zillow_Values.ipynb  
@@ -59,18 +59,24 @@ project-3
 |   |__ lat_long_coordinates.ipynb   
 |   |__ shape_file_display.ipynb 
 |   |__ zipcodes.ipynb  
-|__ datasets
-|   |__ bar.csv
-|   |__ fb.csv
-|   |__ mc.csv
-|   |__ mls.csv
-|   |__ ssfc.csv
-|   |__ tfr.csv
-|   |__ tfys.csv
+|__ data
+|   |__ danger_king_robinson.csv
+|   |__ danger_tax_robinson.csv
+|   |__ danger_thurston_robinson.csv
+|   |__ king_coords.csv
+|   |__ king_int.csv
+|   |__ kingvalues.csv
+|   |__ latlong.csv
+|   |__ piercetax.csv
+|   |__ thur_danger.csv
+|   |__ thurlat.csv
+|   |__ thurstfulllatlong.csv
+|__ Volcanic_Hazards
+|   |__ Volcanic_Hazardss.shp
 |__ DSI-007-SEA Group Recording
 |   |__ audio_only.m4a
 |   |__ playback.m3u
 |   |__ zoom_0.mp4
-|__ project_04_presentation.pdf
+|__ mount_rainier_disaster_estimate_presentation.pdf
 |__ README.md
 ```
